@@ -1,0 +1,31 @@
+{
+  "name": "400 Jensen",
+  "address": "400 Jensen Dr",
+  "status": "PROPOSED",
+  "city": null,
+  "phone": "6304204730",
+  "contactName": null,
+  "startDate": "2000-01-01T00:00:00",
+  "completionDate": "2021-06-01T00:00:00",
+  "units": 332,
+  "market": "Houston",
+  "submarket": "Inner Loop East",
+  "type": "MIXED USE",
+  "builtType": "Low Rise",
+  "stories": 0,
+  "preLeasingDate": "2000-01-01T00:00:00",
+  "firstOccupancyDate": "2000-01-01T00:00:00",
+  "zip": "77020",
+  "accessMetros": [
+    "Houston",
+    "Houston-Inner Loop East"
+  ],
+  "distance": 0,
+  "location": {
+    "lat": 29.7617245,
+    "lng": -95.3429382
+  },
+  "id": 277655,
+  "isHidden": false,
+  "hideReason": null
+}

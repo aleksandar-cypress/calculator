@@ -1,0 +1,24 @@
+{
+  "managementId": 25464,
+  "name": "Adara Communities",
+  "linkedInUrl": null,
+  "isHeadquarters": false,
+  "url": null,
+  "address": "4420 Cypress Creek Pkwy., Suite 224",
+  "market": "Houston",
+  "city": "Houston",
+  "state": "TX",
+  "regionalOffices": null,
+  "contacts": 0,
+  "submarket": "Champions",
+  "unitsManaged": 18258,
+  "accessMetros": [],
+  "distance": 0,
+  "location": {
+    "lat": 29.9897,
+    "lng": -95.4965
+  },
+  "id": 26537,
+  "isHidden": false,
+  "hideReason": null
+}

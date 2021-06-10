@@ -1,0 +1,32 @@
+{
+  "mgmtId": 26266,
+  "name": "(Jet) J.E. Taylor, III",
+  "mgmtName": "Grubb Properties",
+  "title": null,
+  "metro": "Triangle",
+  "department": null,
+  "businessPhone": null,
+  "email": null,
+  "linkedIn": null,
+  "status": "UNVERIFIED",
+  "managementAccessMetros": [
+    "Savannah",
+    "Atlanta",
+    "Fayetteville",
+    "Charlotte",
+    "Greensboro",
+    "Triangle",
+    "Charleston",
+    "Greenville",
+    "Richmond"
+  ],
+  "accessMetros": [],
+  "distance": -1,
+  "location": {
+    "lat": 35.8656209843616,
+    "lng": -78.8096796813279
+  },
+  "id": 107061,
+  "isHidden": true,
+  "hideReason": "metro"
+}
