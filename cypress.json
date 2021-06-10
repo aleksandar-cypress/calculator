@@ -1,0 +1,40 @@
+{
+    "baseUrl": "https://qainterview.pythonanywhere.com/",
+    "retries": {
+        "runMode": 0,
+        "openMode": 0
+    },
+    "numTestsKeptInMemory": 50,
+    "defaultCommandTimeout": 30000,
+    "execTimeout": 20000,
+    "taskTimeout": 150000,
+    "pageLoadTimeout": 150000,
+    "requestTimeout": 7000,
+    "responseTimeout": 20000,
+    "watchForFileChanges": true,
+    "viewportHeight": 1080,
+    "viewportWidth": 1920,
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "reportDir": "cypress/reports",
+        "reportFilname": "report",
+        "overwrite": true,
+        "html": true,
+        "json": false,
+        "charts": false
+    },
+    "quiet": false,
+    "chromeWebSecurity": false,
+    "fixturesFolder": "cypress/fixtures",
+    "integrationFolder": "cypress/integration/testscripts",
+    "pluginsFile": "cypress/plugins/index.js",
+    "supportFile": "cypress/support/index.js",
+    "downloadsFolder": "cypress/downloads",
+    "experimentalInteractiveRunEvents": true,
+    "trashAssetsBeforeRuns": true,
+    "video": false,
+    "videosFolder": "cypress/videos",
+    "screenshotsFolder": "cypress/reports/screenshots",
+    "screenshotOnRunFailure": true,
+    "theme": "dark"
+}
